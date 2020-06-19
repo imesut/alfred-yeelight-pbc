@@ -284,46 +284,46 @@
 			<key>note</key>
 			<string>This item decides betweenn "Turn light on / off"</string>
 			<key>xpos</key>
-			<integer>435</integer>
+			<integer>135</integer>
 			<key>ypos</key>
-			<integer>65</integer>
+			<integer>55</integer>
 		</dict>
 		<key>10AD9E63-C2ED-4E89-A068-FF184BAC8A99</key>
 		<dict>
 			<key>xpos</key>
-			<integer>635</integer>
+			<integer>335</integer>
 			<key>ypos</key>
-			<integer>235</integer>
+			<integer>225</integer>
 		</dict>
 		<key>2B5C853B-89C6-417D-86BC-7C5E9A98EAC0</key>
 		<dict>
 			<key>xpos</key>
-			<integer>640</integer>
+			<integer>340</integer>
 			<key>ypos</key>
-			<integer>65</integer>
+			<integer>55</integer>
 		</dict>
 		<key>2E47095F-EB0D-4139-9F23-743B1433DC11</key>
 		<dict>
 			<key>xpos</key>
-			<integer>435</integer>
+			<integer>135</integer>
 			<key>ypos</key>
-			<integer>390</integer>
+			<integer>380</integer>
 		</dict>
 		<key>3B4CAAB4-ADFF-4BD6-A468-AAA173BCA146</key>
 		<dict>
 			<key>note</key>
 			<string>Brigthness options from 0% to 100%</string>
 			<key>xpos</key>
-			<integer>435</integer>
+			<integer>135</integer>
 			<key>ypos</key>
-			<integer>235</integer>
+			<integer>225</integer>
 		</dict>
 		<key>D1A2D70B-656B-44AC-AD03-7834E3F02F25</key>
 		<dict>
 			<key>xpos</key>
-			<integer>640</integer>
+			<integer>340</integer>
 			<key>ypos</key>
-			<integer>390</integer>
+			<integer>380</integer>
 		</dict>
 	</dict>
 	<key>webaddress</key>
