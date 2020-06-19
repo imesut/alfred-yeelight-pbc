@@ -1,0 +1,23 @@
+{
+    'power': 'off',
+    'bright': '63',
+    'ct': '2984',
+    'rgb': '16711680',
+    'hue': '359',
+    'sat': '100',
+    'color_mode': '2',
+    'flowing': '0',
+    'delayoff': '0',
+    'music_on': '0',
+    'name': None,
+    'bg_power': None,
+    'bg_flowing': None,
+    'bg_ct': None,
+    'bg_bright': None,
+    'bg_hue': None,
+    'bg_sat': None,
+    'bg_rgb': None,
+    'nl_br': None,
+    'active_mode': None,
+    'current_brightness': '63'
+}
